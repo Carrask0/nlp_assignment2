@@ -1,0 +1,10 @@
+Model,Avg Test Loss,Std Test Loss,Avg Test Accuracy,Std Test Accuracy
+bow_model,3985.0642,848.8829,0.3446,0.0556
+cbow_model,4273.8786,107.1337,0.3624,0.0082
+deep_cbow_model,3223.7057,88.8054,0.3795,0.0096
+pt_glove_deep_cbow_model,2927.2123,23.6517,0.4183,0.0098
+pt_word2vec_deep_cbow_model,2890.0174,61.5718,0.4321,0.0096
+lstm_glove,2647.8802,23.4715,0.4751,0.0063
+lstm_glove_mb,173.9114,8.9448,0.4649,0.003
+lstm_glove_ft,248.4139,124.7511,0.4275,0.0144
+treelstm_glove,164.9593,1.6366,0.4801,0.0036
